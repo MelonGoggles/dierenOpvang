@@ -1,0 +1,40 @@
+.background{
+	background-image: url("../images/background_image.jpg");
+	background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+
+.login_form{
+  border: black solid 3px;
+  left: 37.5%;
+  top: 15%;
+  position: absolute;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(180,180,180,200);
+}
+
+.dier_form{
+  border: black solid 3px;
+  left: 37.5%;
+  top: 5%;
+  position: absolute;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(180,180,180,200);
+}
+
+.klant_form{
+  border: black solid 3px;
+  left: 37.5%;
+  top: 5%;
+  position: absolute;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(180,180,180,200);
+}
+
+.forminput{
+	float: right;
+}
